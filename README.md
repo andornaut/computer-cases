@@ -22,7 +22,7 @@ Download the [latest 3D design](https://github.com/andornaut/open-frame-computer
 * [Bosch HB063 5/8" hole saw](https://www.amazon.ca/gp/product/B000WA3I34)
 * [DeWalt DWE7491RS 10-inch table saw with stand](https://www.amazon.ca/gp/product/B00F2CGXGG)
 * [DeWalt DCK287D2 impact driver and hammer drill](https://www.amazon.ca/gp/product/B0183RM3D8)
-* [DeWalt DCW210B orbital sandar](https://www.amazon.ca/gp/product/B07JQM7C28)
+* [DeWalt DCW210B orbital sander](https://www.amazon.ca/gp/product/B07JQM7C28)
 * [DeWalt DCS356B oscillating multi-tool](https://www.amazon.ca/gp/product/B07VBB55X5)
 * [DeWalt DWP611 router](https://www.amazon.ca/gp/product/B0048EFUV8)
 
