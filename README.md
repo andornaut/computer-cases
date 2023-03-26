@@ -2,7 +2,7 @@
 
 * [@andornaut /til/3D Printing](https://github.com/andornaut/til/blob/master/docs/3d-printing.md)
 
-Download the [latest 3D design](https://github.com/andornaut/computer-case/blob/main/v2/v2%20drawing%20(Sketchup%202021).skp) for [SketchUp](https://www.sketchup.com/).
+Download the [latest 3D design](https://raw.githubusercontent.com/andornaut/computer-cases/main/v2/v2%20drawing%20(Sketchup%202021).skp) for [SketchUp](https://www.sketchup.com/).
 
 ## Versions
 
