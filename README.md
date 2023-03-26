@@ -1,6 +1,8 @@
-# Open Frame Computer Case
+# Computer cases
 
-Download the [latest 3D design](https://github.com/andornaut/open-frame-computer-case/blob/main/v0.3/v0.3%20drawing%20(Sketchup%202021).skp) for [SketchUp](https://www.sketchup.com/).
+* [@andornaut /til/3D Printing](https://github.com/andornaut/til/blob/master/docs/3d-printing.md#3d-printing)
+
+Download the [latest 3D design](https://github.com/andornaut/computer-case/blob/main/v0.3/v0.3%20drawing%20(Sketchup%202021).skp) for [SketchUp](https://www.sketchup.com/).
 
 ## Versions
 
@@ -26,16 +28,15 @@ Download the [latest 3D design](https://github.com/andornaut/open-frame-computer
 * [DeWalt DCS356B oscillating multi-tool](https://www.amazon.ca/gp/product/B07VBB55X5)
 * [DeWalt DWP611 router](https://www.amazon.ca/gp/product/B0048EFUV8)
 
-## Woodworking supplies
+## Supplies
 
 * [1/4" Fluted wood dowels (pack of 72)](https://www.amazon.ca/gp/product/B00FQ5ASN8/)
 * [E-Z LOK 400-M3 threaded inserts (pack of 10), drill bit, and installation tool](https://www.amazon.ca/gp/product/B015CAPTZI)
 * [E-Z Lok 400-M4 threaded inserts (Pack of 10), drill bit, and installation tool](https://www.amazon.ca/gp/product/B015CAPVHO)
 * [Franklin Titebond III](https://www.amazon.ca/gp/product/B0002YQ3KA)
 
-## Specialty stores
+## Shopping
 
 * [MDPC-X](https://www.cable-sleeving.com) - Cable sleeving supplies
 * [ModMyMods](https://modmymods.com) - Computer parts
 * [Performance-pcs.com](https://www.performance-pcs.com) - Computer parts
-
